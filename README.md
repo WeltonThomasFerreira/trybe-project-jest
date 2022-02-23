@@ -1,8 +1,8 @@
 # Trybe Project Jest 20/08/2021
 <br>
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20"/>
 </div>
 <br>
 
